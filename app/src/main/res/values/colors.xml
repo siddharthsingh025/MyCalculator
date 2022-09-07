@@ -7,5 +7,7 @@
     <color name="colorblack">#24272E</color>
     <color name="colorGray">#7C7C80</color>
     <color name="colorWhite">#ffffff</color>
+    <color name="OffcolorWhite">#FAF9F6</color>
     <color name="colorPurple">#738DEF</color>
+    <color name="red">#C70039</color>
 </resources>

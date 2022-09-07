@@ -50,10 +50,11 @@
                 android:layout_height="match_parent"
                 android:text="C"
                 android:textSize="16sp"
+                android:textStyle="bold"
                 android:layout_weight="1"
-                android:textColor="@color/colorblack"
+                android:textColor="@color/red"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
 
             <Button
                 android:id="@+id/btnLeftB"
@@ -64,7 +65,7 @@
                 android:layout_weight="1"
                 android:textColor="@color/colorGray"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
 
             <Button
                 android:id="@+id/btnRightB"
@@ -75,7 +76,7 @@
                 android:layout_weight="1"
                 android:textColor="@color/colorGray"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
             <Button
                 android:id="@+id/btnDivide"
                 android:layout_width="match_parent"
@@ -85,7 +86,7 @@
                 android:layout_weight="1"
                 android:textColor="@color/colorPurple"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
 
         </LinearLayout>
         <LinearLayout
@@ -135,7 +136,7 @@
                 android:layout_weight="1"
                 android:textColor="@color/colorPurple"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
 
         </LinearLayout>
         <LinearLayout
@@ -185,7 +186,7 @@
                 android:layout_weight="1"
                 android:textColor="@color/colorPurple"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
 
         </LinearLayout>
         <LinearLayout
@@ -235,13 +236,13 @@
                 android:layout_weight="1"
                 android:textColor="@color/colorPurple"
                 android:stateListAnimator="@null"
-                android:background="@color/colorWhite"/>
+                android:background="@color/OffcolorWhite"/>
 
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:background="@color/colorWhite"
+            android:background="@color/OffcolorWhite"
             android:orientation="horizontal">
 
             <Button
